@@ -10,10 +10,11 @@ import javax.swing.UIManager;
 /**
  *
  * Autores:
- * Ana Laura
- * Larissa Domingos
+ * Ana Laura Fernandes de Oliveira
+ * Juliana Granffild Andrade Silva 
+ * Larissa Domingues Gomes
  * Pedro Henrique Reis Rodrigues
- * Tárcila Fernandez
+ * Tárcila Fernanda Resende da Silva
  */
 public class chat_server extends javax.swing.JFrame {
     static ServerSocket ss;
